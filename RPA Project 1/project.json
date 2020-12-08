@@ -1,6 +1,6 @@
 {
   "name": "UiPathDevOpsProject1",
-  "description": "Blank Process 1",
+  "description": "Blank Process 123",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.7.1-beta.557523]",
